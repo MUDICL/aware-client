@@ -39,7 +39,7 @@ repositories {
 }
 
 dependencies {
-    api "com.github.denzilferreira:aware-client:master-SNAPSHOT"
+    implementation 'com.github.MUDICL:aware-client:1.0'
 }
 ```
 
